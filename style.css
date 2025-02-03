@@ -5,6 +5,7 @@
     text-align: center;
     margin: -30px -100px 30px -100px;
     background-color: #191970;
+    height: 200px;
 }
 h1 {
     color: white;
@@ -46,7 +47,7 @@ a:link {
 
 .footer {
     text-align: center;
-    margin: 0 -100px -100px -100px;
+    margin: 300px -100px -100px -100px;
     background-color: #191970;
     color: white;
 }
